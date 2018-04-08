@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\HorseTrip\HorseTrip\bin\Debug\HorseTrip.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\HorseTrip\HorseTrip\bin\Debug\HorseTrip.exe
+C:\Users\user\documents\visual studio 2015\Projects\HorseTrip\HorseTrip\bin\Debug\HorseTrip.pdb
+C:\Users\user\documents\visual studio 2015\Projects\HorseTrip\HorseTrip\obj\Debug\HorseTrip.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\HorseTrip\HorseTrip\obj\Debug\HorseTrip.Form1.resources
+C:\Users\user\documents\visual studio 2015\Projects\HorseTrip\HorseTrip\obj\Debug\HorseTrip.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2015\Projects\HorseTrip\HorseTrip\obj\Debug\HorseTrip.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2015\Projects\HorseTrip\HorseTrip\obj\Debug\HorseTrip.exe
+C:\Users\user\documents\visual studio 2015\Projects\HorseTrip\HorseTrip\obj\Debug\HorseTrip.pdb
