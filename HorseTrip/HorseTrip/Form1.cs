@@ -16,6 +16,7 @@ namespace HorseTrip
         {
             InitializeComponent();
         }
+        //Deneme Commit
         public int oyunTahtasiBuyuklugu = 0;
         public int count=0;
         DateTime baslangic = new DateTime();
